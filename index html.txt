@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Scammer Trap</title>
+  <style>
+    body {
+      background-color: black;
+      color: red;
+      font-family: 'Arial';
+      text-align: center;
+      margin-top: 100px;
+    }
+  </style>
+</head>
+<body>
+  <h1>You thought you won?</h1>
+  <p>Revenge is loading...</p>
+</body>
+</html>
